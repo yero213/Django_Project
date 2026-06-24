@@ -22,4 +22,4 @@ jobs:
 
       - name: Run Tests
         run: |
-          python mypay/manage.py test
+          python myapp/manage.py test
